@@ -1,0 +1,10 @@
+{
+  "description": "Analyze personal data with interactive dashboards featuring ETL processes and Python integration, all in a sleek dark-themed interface for data enthusiasts.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
